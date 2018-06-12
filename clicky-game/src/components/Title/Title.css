@@ -7,9 +7,10 @@
     /* opacity: 0.3; */
     /* filter: alpha(opacity=30); */
     font-family: 'Holtwood One SC', serif;
-    color: rgb(175, 87, 29);
+    color: rgb(223, 193, 211);
+    background-color: blueviolet;
     /* text-shadow: 0 0 5px #000; */
-    margin-bottom: 20px;
+     margin-bottom: 10px; 
 }
 
 .titlebox h1 {
